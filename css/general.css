@@ -1,0 +1,13 @@
+@viewport {width: device-width; scale: 1;}
+@-ms-viewport {width: device-width; scale: 1;}
+@-moz-viewport {width: device-width; scale: 1;}
+@-o-viewport {width: device-width; scale: 1;}
+@-webkit-viewport {width: device-width; scale: 1;}
+
+html {
+	margin: 0;
+	padding: 0;
+
+	background-color: #e2e2e2;
+	font: normal 100%/1.5 georgia, serif;
+}
