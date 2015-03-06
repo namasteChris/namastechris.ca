@@ -8,6 +8,44 @@ html {
 	margin: 0;
 	padding: 0;
 
-	background-color: #e2e2e2;
-	font: normal 100%/1.5 georgia, serif;
+	background-color: #0D8972;
+	font: normal 100%/1.125 "cabin", helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.coming-soon {
+	padding: 10px 0 30px;
+	position: relative;
+	top: 15vh;
+
+	background-color: #14C9A8;
+}
+
+h1 {
+	display: block;
+	width: 100%;
+
+	color: #fff;
+	font-size: 5rem;
+	font-weight: 700;
+	text-align: center;
+	text-shadow: 5px 5px #EAC435;
+	text-transform: uppercase;
+
+
+}
+
+.h1-caption {
+	display: block;
+	margin-top: -20px;
+	width: 100%;
+
+	color: #0D8972;
+	font-size: 1.5rem;
+	font-weight: 400;
+	text-align: center;
 }
